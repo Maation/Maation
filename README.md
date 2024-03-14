@@ -5,7 +5,7 @@ Im begginer a Frontend Developer💻
 -----------------
 * I live in Poland
 * Learning Frontend Development
-* begginer web developer
+* Begginer web developer
 
 
 My skills
