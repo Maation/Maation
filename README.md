@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mateusz Nguyen 
+=====================================================================================================================================
 
-<!--
-**Maation/Maation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im begginer a Frontend Developer💻
+-----------------
+* I live in Poland
+* Learning Frontend Development
+* begginer web developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skills
+-----------------
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,git,python)](https://skillicons.dev)
+
+
+Contacts
+-----------------
+* Mail 📨 - mateusznguyen17@gmail.com
+* Discord 🤖 - maation
+-----------------
